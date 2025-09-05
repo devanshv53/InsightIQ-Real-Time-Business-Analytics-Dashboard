@@ -54,7 +54,6 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
 
    •	Incorporate slicers and filters to allow users to dynamically explore the data and uncover insights based on their specific criteria and interests.
 
-   ## Tableau Visualization
 
 ### 3.Tableau visualizations 
 
@@ -68,7 +67,7 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
 
 - **All-Time High and Low Sales (Gantt Chart):** Identifies historical sales peaks and lows.
 
-  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Payal2000/Pizza_Sales/blob/main/Dashboard.png">
+  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="Tableau_Dashboard.png">
 
 ## SOFTWARE USED
 
