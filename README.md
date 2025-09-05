@@ -54,6 +54,22 @@ Conduct a comprehensive sales performance analysis for a pizza store using SQL q
 
    •	Incorporate slicers and filters to allow users to dynamically explore the data and uncover insights based on their specific criteria and interests.
 
+   ## Tableau Visualization
+
+### 3.Tableau visualizations 
+
+- **Monthly Sales Trends (Line Chart):** Shows the monthly sales trends over time.
+
+- **Quarterly Sales Analysis (Bar Chart):** Provides a quarterly breakdown of sales.
+
+- **Weekly Sales Overview (Area Chart):** Displays weekly sales fluctuations within a month.
+
+- **Pizza Performance Dashboard (Interactive Doughnut Chart):** Presents the percentage breakdown of pizza sales and individual pizza performance.
+
+- **All-Time High and Low Sales (Gantt Chart):** Identifies historical sales peaks and lows.
+
+  <img align="center" alt="zerotwo-pic" height="450" style="border-radius:60px;" src="https://github.com/Payal2000/Pizza_Sales/blob/main/Dashboard.png">
+
 ## SOFTWARE USED
 
   •	MySQL Workbench 8.0
